@@ -20,7 +20,7 @@ let posPlanetas = [];
 
 
 function preload(){
-   music = loadSound("../audio/solar.mp3");
+   music = loadSound("audio/solar.mp3");
 }
 
 
