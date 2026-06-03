@@ -7,7 +7,7 @@ const mercurioY = 200;
 const mercurioR = 55;
 
 function preload(){
-  music = loadSound("../audio/mercurio.mp3");
+  music = loadSound("./audio/mercurio.mp3");
 }
 
 function setup(){

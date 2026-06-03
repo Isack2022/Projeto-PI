@@ -7,7 +7,7 @@ const uranoY = 200;
 const uranoR = 75;
 
 function preload(){
-  music = loadSound("../audio/urano.mp3");
+  music = loadSound("./audio/urano.mp3");
 }
 
 function setup(){

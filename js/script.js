@@ -1,12 +1,12 @@
 //Url dos planetas
 const planetas = [
-  { nome: "Mercúrio", emoji: "🌕", tamanho: 10, raioX: 35, raioY: 40, veloc: 2.50, fase: 1, url: "../mercurio.html" },
-  { nome: "Vênus", emoji: "🟠", tamanho: 10, raioX: 60, raioY: 70, veloc: 1.80, fase: 2, url: "../venus.html" },
-  { nome: "Terra", emoji: "🌎", tamanho: 10, raioX: 90, raioY: 100, veloc: 1.00, fase: 3, url: "../terra.html" },
-  { nome: "Marte", emoji: "🔴", tamanho: 10, raioX:120, raioY:120, veloc:0.80, fase:4, url:"../marte.html" },
-  { nome: "Júpiter", emoji: "🟠", tamanho:15, raioX:150, raioY:150, veloc:0.50, fase:5, url:"../jupiter.html" },
-  { nome: "Saturno", emoji: "🪐", tamanho:15, raioX:175, raioY:175, veloc:0.30, fase:6, url:"../saturno.html" },
-  { nome: "Urano", emoji: "🔵", tamanho:15, raioX:200, raioY:200, veloc:0.20, fase:7, url:"../urano.html" },
+  { nome: "Mercúrio", emoji: "🌕", tamanho: 10, raioX: 35, raioY: 40, veloc: 2.50, fase: 1, url: "./mercurio.html" },
+  { nome: "Vênus", emoji: "🟠", tamanho: 10, raioX: 60, raioY: 70, veloc: 1.80, fase: 2, url: "./venus.html" },
+  { nome: "Terra", emoji: "🌎", tamanho: 10, raioX: 90, raioY: 100, veloc: 1.00, fase: 3, url: "./terra.html" },
+  { nome: "Marte", emoji: "🔴", tamanho: 10, raioX:120, raioY:120, veloc:0.80, fase:4, url:"./marte.html" },
+  { nome: "Júpiter", emoji: "🟠", tamanho:15, raioX:150, raioY:150, veloc:0.50, fase:5, url:"./jupiter.html" },
+  { nome: "Saturno", emoji: "🪐", tamanho:15, raioX:175, raioY:175, veloc:0.30, fase:6, url:"./saturno.html" },
+  { nome: "Urano", emoji: "🔵", tamanho:15, raioX:200, raioY:200, veloc:0.20, fase:7, url:"./urano.html" },
 ];
 
 let angulo = 0;

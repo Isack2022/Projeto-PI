@@ -2,7 +2,7 @@ let angulo = 0;
 let fundoEstrelado, music; 
 
 function preload(){
-    music = loadSound("../audio/terra.mp3")
+    music = loadSound("./audio/terra.mp3")
 }
 
 function setup() {

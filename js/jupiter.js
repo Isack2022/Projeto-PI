@@ -7,12 +7,12 @@ let imgGanimedes;
 let imgCalisto, music;
 
 function preload() {
-  imgJupiter = loadImage("../img/Jupiter.png");
-  imgIo = loadImage("../img/Io.png");
-  imgEuropa = loadImage("../img/Europa.png");
-  imgGanimedes = loadImage("../img/Ganimedes.png");
-  imgCalisto = loadImage("../img/Calisto.png");
-  music = loadSound("../audio/jupiter.mp3")
+  imgJupiter = loadImage("./img/Jupiter.png");
+  imgIo = loadImage("./img/Io.png");
+  imgEuropa = loadImage("./img/Europa.png");
+  imgGanimedes = loadImage("./img/Ganimedes.png");
+  imgCalisto = loadImage("./img/Calisto.png");
+  music = loadSound("./audio/jupiter.mp3")
 }
 
 function setup() {
