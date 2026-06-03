@@ -2,8 +2,8 @@ let fundoEstrelado;
 let imgVenus, music;
 
 function preload() {
-  imgVenus = loadImage("./img/venus.png");
-  music =  loadSound("./audio/venus.mp3")
+  imgVenus = loadImage("img/venus.png");
+  music =  loadSound("audio/venus.mp3")
 }
 
 function setup() {

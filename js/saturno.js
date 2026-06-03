@@ -6,7 +6,7 @@ let saturnoY = 200;
 let saturnoR = 70;
 
 function preload(){
-    music = loadSound("./audio/saturno.mp3")
+    music = loadSound("audio/saturno.mp3")
 }
 
 function setup() {

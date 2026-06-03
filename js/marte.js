@@ -6,7 +6,7 @@ let marteY = 200;
 let marteR = 80;
 
 function preload() {
-  music = loadSound("./audio/marte.mp3")
+  music = loadSound("audio/marte.mp3")
 }
 
 function setup() {
