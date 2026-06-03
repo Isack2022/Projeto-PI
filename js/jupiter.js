@@ -8,10 +8,10 @@ let imgCalisto, music;
 
 function preload() {
   imgJupiter = loadImage("img/Jupiter.png");
-  imgIo = loadImage("img/Io.png");
+  imgIo = loadImage("img/io.png");
   imgEuropa = loadImage("img/Europa.png");
   imgGanimedes = loadImage("img/Ganimedes.png");
-  imgCalisto = loadImage("img/Calisto.png");
+  imgCalisto = loadImage("img/calisto.png");
   music = loadSound("audio/jupiter.mp3")
 }
 
