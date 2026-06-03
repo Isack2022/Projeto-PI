@@ -22,7 +22,6 @@ function setup() {
   for (let i = 0; i < 400; i++) {
     fundoEstrelado.point(random(400),random(400));
   }
-  music.play();
   music.loop();
 }
 

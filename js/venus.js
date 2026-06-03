@@ -15,7 +15,6 @@ function setup() {
     fundoEstrelado.background(0);
     fundoEstrelado.stroke(255);
     fundoEstrelado.strokeWeight(1.5);
-    music.play();
     music.loop();
 
     for (let i = 0; i < 400; i++) {

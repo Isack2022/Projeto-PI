@@ -26,7 +26,7 @@ function setup(){
     fundoEstrelado.point(random(400),random(400));
   }
 
-  music.play();
+
   music.loop();
 }
 
