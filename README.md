@@ -109,7 +109,6 @@ Durante o desenvolvimento foram trabalhados conceitos como:
 🖥️ Técnico em Informática — SENAC
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isack2022)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isackcsantos/)
 
 ---
